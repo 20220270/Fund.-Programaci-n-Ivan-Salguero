@@ -1,4 +1,4 @@
-# Fund.-Programaci-n-Ivan-Salguero
+# Fund.-Programación-Ivan-Salguero
 
 Iván Daniel Salguero Esperanza
 
